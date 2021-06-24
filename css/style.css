@@ -1,0 +1,17 @@
+body{
+    height: 95vh;
+    width: 99%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:#000000;
+    color:#f2e0f3;
+    font-family: 'Nunito', tahoma;
+    font-size:30px;                
+}
+
+.decoration{
+    border: 1px dotted rgb(252, 8, 158);
+    border-radius: 6px;
+}
